@@ -1,0 +1,314 @@
+# Copyright (C) 2015 Browsers Detect
+msgid ""
+msgstr ""
+"Project-Id-Version: Bros 1.0.0\n"
+"POT-Creation-Date: 2018-12-14 12:17+0300\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-12-17 14:09+0300\n"
+"Language-Team: LANG <admin@muzu.ru>\n"
+"X-Generator: Poedit 1.8.12\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: ../aoplayer_plugin.php:1
+msgid "Player AvtoOfis.Video"
+msgstr "Плеер АвтоОфис.Видео"
+
+#: ../aoplayer_plugin.php:2
+msgid "Constructor"
+msgstr "Конструктор"
+
+#: ../aoplayer_plugin.php:3
+msgid "When you click on the shortcode, it will be selected and copied to the buffer"
+msgstr "При клике по шорткоду, он будет выделен и скопирован в буфер"
+
+#: ../aoplayer_plugin.php:4
+msgid "Shortcode Attributes"
+msgstr "Атрибуты шорткода"
+
+#: ../aoplayer_plugin.php:5
+msgid "To output the player, you must add the generated shortcode to the page or to the entry"
+msgstr "Для вывода плеера необходимо добавить сгенерированный шорткод на страницу или в запись"
+
+#: ../aoplayer_plugin.php:6
+msgid "Indicate which copy of the player on the page"
+msgstr "Укажите какой по счету экземпляр плеера на странице"
+
+#: ../aoplayer_plugin.php:7
+msgid "Specify the type of player"
+msgstr "Укажите тип плеера"
+
+#: ../aoplayer_plugin.php:8
+msgid "Player type"
+msgstr "Тип плеера"
+
+#: ../aoplayer_plugin.php:9
+msgid "Choose..."
+msgstr "Выберите..."
+
+#: ../aoplayer_plugin.php:10
+msgid "Player showplaylist"
+msgstr "Отображать плейлист"
+
+#: ../aoplayer_plugin.php:11
+msgid "Player Height"
+msgstr "Высота плеера"
+
+#: ../aoplayer_plugin.php:12
+msgid "Player Width"
+msgstr "Ширина плеера"
+
+#: ../aoplayer_plugin.php:13
+msgid "Yes"
+msgstr "Да"
+
+#: ../aoplayer_plugin.php:14
+msgid "No"
+msgstr "Нет"
+
+#: ../aoplayer_plugin.php:15
+msgid "Player controls"
+msgstr "Отобразить элементы управления"
+
+#: ../aoplayer_plugin.php:16
+msgid "Player preload"
+msgstr "Загрузка контента вместе с загрузкой страницы"
+
+#: ../aoplayer_plugin.php:17
+msgid "Player playlistposition"
+msgstr "Положение плейлиста"
+
+#: ../aoplayer_plugin.php:18
+msgid "Top"
+msgstr "Вверху"
+
+#: ../aoplayer_plugin.php:19
+msgid "Left"
+msgstr "Слева"
+
+#: ../aoplayer_plugin.php:20
+msgid "Right"
+msgstr "Справа"
+
+#: ../aoplayer_plugin.php:21
+msgid "Bottom"
+msgstr "Внизу"
+
+#: ../aoplayer_plugin.php:22
+msgid "Player autoplay"
+msgstr "Автозапуск при загрузке страницы"
+
+#: ../aoplayer_plugin.php:23
+msgid "Player autoplaysound"
+msgstr "Отображать сообщение о необходимости включить звук (при автозапуске плеера)"
+
+#: ../aoplayer_plugin.php:24
+msgid "Player orderbutton"
+msgstr "Отображать кнопку заказа"
+
+#: ../aoplayer_plugin.php:25
+msgid "Player orderbuttonposition"
+msgstr "Положение кнопки заказа"
+
+#: ../aoplayer_plugin.php:26
+msgid "TopLeft"
+msgstr "Вверху слева"
+
+#: ../aoplayer_plugin.php:27
+msgid "TopRight"
+msgstr "Вверху справа"
+
+#: ../aoplayer_plugin.php:28
+msgid "TopCenter"
+msgstr "Вверху по центру"
+
+#: ../aoplayer_plugin.php:29
+msgid "BottomLeft"
+msgstr "Внизу слева"
+
+#: ../aoplayer_plugin.php:30
+msgid "BottomRight"
+msgstr "Внизу справа"
+
+#: ../aoplayer_plugin.php:31
+msgid "BottomCenter"
+msgstr "Внизу по центру"
+
+#: ../aoplayer_plugin.php:32
+msgid "LeftCenter"
+msgstr "Слева по центру"
+
+#: ../aoplayer_plugin.php:33
+msgid "RightCenter"
+msgstr "Справа по центру"
+
+#: ../aoplayer_plugin.php:34
+msgid "Center"
+msgstr "По центру"
+
+#: ../aoplayer_plugin.php:35
+msgid "Player orderbuttonlink"
+msgstr "Ссылка на страницу заказа"
+
+#: ../aoplayer_plugin.php:36
+msgid "Player orderbuttontitle"
+msgstr "Текст на кнопке заказа"
+
+#: ../aoplayer_plugin.php:37
+msgid "Player orderbuttoncolor"
+msgstr "Стиль кнопки заказа"
+
+#: ../aoplayer_plugin.php:38
+msgid "Style Default"
+msgstr "Стиль \"Default\""
+
+#: ../aoplayer_plugin.php:39
+msgid "Style Info"
+msgstr "Стиль \"Info\""
+
+#: ../aoplayer_plugin.php:40
+msgid "Style Primary"
+msgstr "Стиль \"Primary\""
+
+#: ../aoplayer_plugin.php:41
+msgid "Style Warning"
+msgstr "Стиль \"Warning\""
+
+#: ../aoplayer_plugin.php:42
+msgid "Style Danger"
+msgstr "Стиль \"Danger\""
+
+#: ../aoplayer_plugin.php:43
+msgid "Style Success"
+msgstr "Стиль \"Success\""
+
+#: ../aoplayer_plugin.php:44
+msgid "Player orderbuttontime"
+msgstr "Таймер вывода кнопки (sec)"
+
+#: ../aoplayer_plugin.php:45
+msgid "Player orderbuttonfontsize"
+msgstr "Размер шрифта текста на кнопке (px)"
+
+#: ../aoplayer_plugin.php:46
+msgid "Player orderbuttonleft"
+msgstr "Отступ слева (px)"
+
+#: ../aoplayer_plugin.php:47
+msgid "Player orderbuttonright"
+msgstr "Отступ справа (px)"
+
+#: ../aoplayer_plugin.php:48
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../aoplayer_plugin.php:49
+msgid "Aoplayer"
+msgstr "АвтоОфис.Видео"
+
+#: ../aoplayer_plugin.php:50
+msgid "Aoplayer Plugin"
+msgstr "АвтоОфис.Видео"
+
+#: ../aoplayer_plugin.php:51
+msgid "OrderButtonTitle"
+msgstr "Заказать"
+
+#: ../aoplayer_plugin.php:52
+msgid "Sound on"
+msgstr "Включить звук"
+
+#: ../aoplayer_plugin.php:53
+msgid "Add Source"
+msgstr "Добавить контент"
+
+#: ../aoplayer_plugin.php:54
+msgid "Player Source link"
+msgstr "Ссылка на воспроизводимый контент"
+
+#: ../aoplayer_plugin.php:55
+msgid "Player Source poster"
+msgstr "Обложка"
+
+#: ../aoplayer_plugin.php:56
+msgid "Player Source Type"
+msgstr "Тип воспроизводимого файла"
+
+#: ../aoplayer_plugin.php:57
+msgid "Player Source title"
+msgstr "Название"
+
+#: ../aoplayer_plugin.php:58
+msgid "Warning CloneBlock"
+msgstr "Кликните по иконке \"+\" чтобы клонировать блок контента"
+
+#: ../aoplayer_plugin.php:59
+msgid "Placeholder Template"
+msgstr "Название шаблона"
+
+#: ../aoplayer_plugin.php:60
+msgid "Warning Mising Date"
+msgstr "Заполните это поле"
+
+#: ../aoplayer_plugin.php:61
+msgid "Choose template ..."
+msgstr "Выберите шаблон..."
+
+#: ../aoplayer_plugin.php:62
+msgid "Missing required data"
+msgstr "Отсутствуют необходимые данные"
+
+#: ../aoplayer_plugin.php:63
+msgid "Incorrect or missing template name"
+msgstr "Некорректное или отсутствует название шаблона"
+
+#: ../aoplayer_plugin.php:64
+msgid "Error saving data"
+msgstr "Ошибка сохранения данных"
+
+#: ../aoplayer_plugin.php:65
+msgid "Success Save Data"
+msgstr "Данные успешно сохранены"
+
+#: ../aoplayer_plugin.php:66
+msgid "Missing data"
+msgstr "Отсутствуют данные"
+
+#: ../aoplayer_plugin.php:67
+msgid "Player positionplayer"
+msgstr "Позиция плеера на странице"
+
+#: ../aoplayer_plugin.php:68
+msgid "Hint type"
+msgstr ""
+
+#: ../aoplayer_plugin.php:69
+msgid "Player controls_navigation"
+msgstr "Отображать кнопки предыдущий и следующий трек"
+
+#: ../aoplayer_plugin.php:70
+msgid "Warning Delete Template"
+msgstr "Удаление шаблона"
+
+#: ../aoplayer_plugin.php:71
+msgid "Warning Save New Template"
+msgstr "Сохранить как новый"
+
+#: ../aoplayer_plugin.php:72
+msgid "A template with this name already exists"
+msgstr "Шаблон с таким названием уже существует"
+
+#: ../aoplayer_plugin.php:73
+msgid "Warning"
+msgstr "Внимание!"
+
+#: ../aoplayer_plugin.php:74
+msgid "Warning Deleted Template"
+msgstr "Подтвердите удаление шаблона"
+
+#: ../aoplayer_plugin.php:75
+msgid "Affects the display of the poster in the player"
+msgstr "Влияет на отображение постера в плеере"
